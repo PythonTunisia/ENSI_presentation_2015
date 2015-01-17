@@ -1,4 +1,4 @@
-sfd_2014_python_tunisia
+ENSI_presentation_2015
 =======================
 
 Installation
